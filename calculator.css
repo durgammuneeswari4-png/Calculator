@@ -1,0 +1,94 @@
+*{
+    font-size: 30px;
+    color:black;
+    border-radius: 5%;
+    border: none;
+}
+input{
+    outline: none;
+}
+section{
+    height:500px;
+    width:375px;
+    display: grid;
+    background-color: #222;
+    grid-template-columns: repeat(4,90px);
+    row-gap: 10px;
+    grid-template-columns: 100px 100px 100px 100px;
+    margin:100px auto;
+    padding:20px;
+}
+.g1{
+    background-color:orangered;
+     box-shadow: 0px 0px 5px 5px ,0px 0px 5px  2px black inset; 
+}
+.g2{
+    background-color:orangered;
+     box-shadow: 0px 0px 5px 5px ,0px 0px 5px  2px black inset; 
+}
+.g3{
+    background-color: orangered;
+     box-shadow: 0px 0px 5px 5px ,0px 0px 5px  2px black inset; 
+}
+.g4{
+    background-color: orangered;
+     box-shadow: 0px 0px 5px 5px ,0px 0px 5px  2px black inset; 
+}
+.g5{
+     box-shadow: 0px 0px 5px 5px ,0px 0px 20px  10px grey inset; 
+}
+.g6{
+     box-shadow: 0px 0px 5px 5px ,0px 0px 20px  10px grey inset; 
+}
+.g7{
+    
+     box-shadow: 0px 0px 5px 5px ,0px 0px 20px  10px grey inset; 
+}
+.g8{
+     box-shadow: 0px 0px 5px 5px ,0px 0px 20px  10px grey inset; 
+}
+.g9{
+     box-shadow: 0px 0px 5px 5px ,0px 0px 20px  10px grey inset; 
+}
+.g10{
+     box-shadow: 0px 0px 5px 5px ,0px 0px 20px  10px grey inset; 
+}
+.g11{
+     box-shadow: 0px 0px 5px 5px ,0px 0px 20px  10px grey inset; 
+}
+.g12{
+     box-shadow: 0px 0px 5px 5px ,0px 0px 20px  10px grey inset; 
+}
+.g13{
+    box-shadow: 0px 0px 5px 5px ,0px 0px 20px  10px grey inset; 
+}
+.g14{
+     box-shadow: 0px 0px 5px 5px ,0px 0px 20px  10px grey inset; 
+}
+.g15{
+    background-color: darkgreen;
+     box-shadow: 0px 0px 5px 5px ,0px 0px 5px  2px black inset; 
+}
+.g16{
+    background-color: red;
+  
+     box-shadow: 0px 0px 5px 5px ,0px 0px 5px  2px black inset; 
+}
+.g17{
+     box-shadow: 0px 0px 5px 5px ,0px 0px 10px  22px grey inset; 
+}
+.calsi{
+    background-color: black;
+    color: aliceblue;
+    grid-column-start: 1;
+    grid-column-end: 5;   
+    height:200px;
+    width:380px;
+    box-shadow: inset 0px 0px 10px 1px lightgray;
+}
+button{
+    height:50px;
+    width:70px;
+ justify-content: center; 
+
+}
